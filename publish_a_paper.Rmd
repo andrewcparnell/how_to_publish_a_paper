@@ -111,7 +111,7 @@ These days you might be able to scrape through a PhD without at least one publis
   - Click on the menu bar and choose 'metrics'
   - Click on 'Categories' to find good journals
 
-- [Demonstration](https://scholar.google.ie)
+- [Demonstration](https://scholar.google.com)
 
 ---
 
