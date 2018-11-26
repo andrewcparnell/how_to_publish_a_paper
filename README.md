@@ -1,6 +1,4 @@
-# how_to_publish_a_paper
-
-A talk on how to publish a paper (as a lead author)
+# A talk on how to publish a paper (as a lead author)
 
 Contents: 
 
