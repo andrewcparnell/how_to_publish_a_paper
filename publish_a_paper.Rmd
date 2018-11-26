@@ -1,7 +1,7 @@
 ---
-title: "How to publish a paper as a lead author"
+title: "How to publish a paper (as a lead author)"
 author: "Andrew Parnell"
-date: "Monday 26th November 10am"
+date: "Monday 26th November 10am \\[www.github.com/andrewcparnell/how_to_publish_a_paper](https://github.com/andrewcparnell/how_to_publish_a_paper)"
 output:
   xaringan::moon_reader:
     css: [default, maynooth, maynooth-fonts]
@@ -309,7 +309,7 @@ Whilst the paper is in peer review you can:
 
 - I usually use Arxiv but there are lots out there. Most universities now also have their own pre-print servers
 
-- [Demonstration](https://www.arxiv.com)
+- [Demonstration](https://arxiv.org)
 
 ---
 
