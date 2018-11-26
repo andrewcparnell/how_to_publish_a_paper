@@ -18,6 +18,13 @@ editor_options:
 options(htmltools.dir.version = FALSE)
 ```
 
+```{r, eval=FALSE, echo=FALSE}
+# Make sure you use the xaringan version 
+# from github, so it has the maynooth template ------------------------
+devtools::install_github("brunaw/xaringan")
+```
+
+
 # Contents
 
 1. Basic steps of publishing a paper
@@ -191,7 +198,7 @@ Whilst the paper is in peer review you can:
 
 - Most commonly, the referees will come back and say that they thought your paper was suitable for publication but there are major changes required
 
-- Sometimes the journal calls this a 'reject with resubmission' so that the journal can fiddly with their turnaround times
+- Sometimes the journal calls this a 'reject with resubmission' so that the journal can fiddle with their turnaround times
 
 - Your next job is to respond to the reviewers points and make changes to the paper (more about this on later slides)
 
@@ -330,7 +337,7 @@ Whilst the paper is in peer review you can:
 
 - (PNAS is the Proceedings of the National Academy of Sciences)
 
-- These papers are often called the 'tabloids'
+- These journals are often called the 'tabloids'
 
 - In theory they are the best journals and the ones that are most desired to publish in
 
