@@ -1,8 +1,6 @@
 ---
 title: "How to publish a paper (as a lead author)"
-author: "Andrew Parnell"
-date: "Monday 26th November 10am
-URL: [github.com/andrewcparnell/how_to_publish_a_paper](https://github.com/andrewcparnell/how_to_publish_a_paper)"
+author: "Andrew Parnell<br> [github.com/andrewcparnell/how_to_publish_a_paper](https://github.com/andrewcparnell/how_to_publish_a_paper)"
 output:
   xaringan::moon_reader:
     css: [default, maynooth, maynooth-fonts]
@@ -35,7 +33,7 @@ devtools::install_github("brunaw/xaringan")
 
 I'm not going to talk about the mechanics of writing a paper as this is a much longer and idiosyncratic process. 
 
-These days you might be able to scrape through a PhD without at least one published lead author paper but it's becoming less and less likely. Most people submit their thesis when they have 2 or 3 published papers. 
+These days you might be able to scrape through a PhD without at least one published lead author paper but it's becoming less and less likely. In Statistics, most people submit their thesis when they have 2 or 3 published papers. 
 
 ---
 
@@ -138,7 +136,9 @@ These days you might be able to scrape through a PhD without at least one publis
 # Step 3: Go through the submission process
 
 - Journal submission processes are usually a nightmare
+
 - Each website often has its own registration form (which it claims is linked to other websites but never really is)
+
 - Sometimes you will have to submit it in a crazy format, e.g.:
 
     - Separating out all the figures (e.g. in separate files)
@@ -174,7 +174,9 @@ As soon as I submit a paper I put an entry in my calendar for 3 months time so t
 Whilst the paper is in peer review you can:
 
 - Run any experiments you think the reviewers might request 
+
 - Keep checking the journal web page
+
 - Write your next paper!
 
 ---
